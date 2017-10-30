@@ -28,3 +28,12 @@ If I want to get Peter's ToDos I have to jump 3 lines to get the 2nd one. The de
 |Stewee|1|Kill Lois|
 |Stewee|2|Take over the world|
 |Stewee|3|Make Brian upset|
+
+# 3rd party Software
+## CCleaner
+The CCleaner has a free trial version that affor a more specifit cleaning optian than the built in Disc Cleanup. With CCleaner we can erase application cache too.
+https://www.piriform.com/ccleaner/download
+
+## Malwerbytes
+The Malwarebytes is a complett protection software, with the trial version we can detect and remove unwanted applications.
+https://www.malwarebytes.com/premium/
