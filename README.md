@@ -63,7 +63,9 @@ If you are brave enought you can disassembly your computer after varranty time. 
 
 ## Solid State Drive
 Every system is as fast as the slowest part. 
+
 Processor > memory > hard drive > optical drive
+
 The HDD-s has an attribute named `RPM`. There is a mechanical rotatin inside and it takes a lot of time.
   - 5000 Round Per Minute
   - 7200 Round Per Minute
