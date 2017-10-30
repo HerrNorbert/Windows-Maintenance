@@ -54,3 +54,16 @@ One of the most resource-consuming this graphical appearance. If you don't want 
  - Right click on `my computer` -> properties -> Advances system settings -> performance/settings
  - Uncheck as many checkbox as you can bear :)
  
+# Hardware
+## Keep clean your computer
+The cooling systems are using fans to lead the heat away. The dust subside on them over time and reduce effectiveness. Clean them with compressed air or vacuum cleaner(1-2 times a year).
+If you are brave enought you can disassembly your computer after varranty time. On youtube theare many videos how to do that, look for notebook type + "disassembly". like "dell inspiron 5567 disassembly"
+
+## Solid State Drive
+Every system is as fast as the slowest part. 
+Processor > memory > hard drive > optical drive
+The HDD-s has an attribute named `RPM`. There is a mechanical rotatin inside and it takes a lot of time.
+  - 5000 Round Per Minute
+  - 7200 Round Per Minute
+  - 10000 Round Per Minute
+The faster HDD needs more power and their lifetime shorter than a slower one. The SSD-s use flash memory, there is no any mechanical operation and your computer become extremly fast.
