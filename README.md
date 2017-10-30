@@ -70,4 +70,5 @@ The HDD-s has an attribute named `RPM`. There is a mechanical rotatin inside and
   - 5000 Round Per Minute
   - 7200 Round Per Minute
   - 10000 Round Per Minute
+  
 The faster HDD needs more power and their lifetime shorter than a slower one. The SSD-s use flash memory, there is no any mechanical operation and your computer become extremly fast.
