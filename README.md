@@ -37,3 +37,20 @@ https://www.piriform.com/ccleaner/download
 ## Malwerbytes
 The Malwarebytes is a complett protection software, with the trial version we can detect and remove unwanted applications.
 https://www.malwarebytes.com/premium/
+
+# Trics
+## Check startup programs
+In the task manager there is an option to list startup applications and let us to disable them if they are unnecessary.
+
+## Explorer.exe
+This is a heavy process  responsible to show system tray and ikons on desctop. We can kill this process trought task manager and restart it if neccessary.
+  - kill
+  Open task manager select `windows explorer`, and kill it with `end task`
+  - restart
+  Open task manager, select `new task` and type in "explorer.exe". After the OK button the tray and desktop ikon will appear again.
+  
+##Degrade Visual Effects
+One of the most resource-consuming this graphical appearance. If you don't want go kill `explorer.exe` you can decrease it's severity.
+ - Right click on `my computer` -> properties -> Advances system settings -> performance/settings
+ - Uncheck as many checkbox as you can bear :)
+ 
