@@ -6,7 +6,7 @@ Some solution / trick to improve computer's performance
 This application help to erase temporary data, log files, empty the Recycle Bin
   - check temporary files
   - empty Recycle Bin
-  
+  <img src="./assets/disc-cleaner.png">
   
 ## Defragment and Optimize Drives
 This tool run automaticly in the background and has the biggest impact on HDD-s. When we delete a file, its actually not erased from the disc, just signed that part of the drive can be overwritten. After a while there will be holes in our data and become more complex to read to the computer and takes longer time.
@@ -48,13 +48,16 @@ In the task manager there is an option to list startup applications and let us t
 This is a heavy process  responsible to show system tray and ikons on desctop. We can kill this process trought task manager and restart it if neccessary.
   - kill
   Open task manager select `windows explorer`, and kill it with `end task`
+  <img src="./assets/without-explorer.png">
   - restart
   Open task manager, select `new task` and type in "explorer.exe". After the OK button the tray and desktop ikon will appear again.
+  <img src="./assets/restart-explorer.png">
   
 ## Degrade Visual Effects
 One of the most resource-consuming this graphical appearance. If you don't want go kill `explorer.exe` you can decrease it's severity.
  - Right click on `my computer` -> properties -> Advances system settings -> performance/settings
  - Uncheck as many checkbox as you can bear :)
+ <img src="./assets/visual-effects.png">
  
 # Hardware
 ## Keep clean your computer
