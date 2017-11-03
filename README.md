@@ -50,7 +50,7 @@ This is a heavy process  responsible to show system tray and ikons on desctop. W
   Open task manager select `windows explorer`, and kill it with `end task`
   <img src="./assets/without-explorer.png">
   - restart
-  Open task manager, select `new task` and type in "explorer.exe". After the OK button the tray and desktop ikon will appear again.
+  Open task manager, select `files/new task` and type in "explorer.exe". After the OK button the tray and desktop ikon will appear again.
   <img src="./assets/restart-explorer.png">
   
 ## Degrade Visual Effects
