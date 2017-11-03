@@ -40,7 +40,7 @@ https://www.piriform.com/ccleaner/download
 The Malwarebytes is a complett protection software, with the trial version we can detect and remove unwanted applications.
 https://www.malwarebytes.com/premium/
 
-# Trics
+# Tricks
 ## Check startup programs
 In the task manager there is an option to list startup applications and let us to disable them if they are unnecessary.
 
