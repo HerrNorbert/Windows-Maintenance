@@ -43,7 +43,8 @@ https://www.malwarebytes.com/premium/
 # Tricks
 ## Check startup programs
 In the task manager there is an option to list startup applications and let us to disable them if they are unnecessary.
-
+  <img src="./assets/startup-apps.png">
+  
 ## Explorer.exe
 This is a heavy process  responsible to show system tray and ikons on desctop. We can kill this process trought task manager and restart it if neccessary.
   - kill
