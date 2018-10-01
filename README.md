@@ -7,6 +7,11 @@ This application help to erase temporary data, log files, empty the Recycle Bin
   - check temporary files
   - empty Recycle Bin
   <img src="./assets/disc-cleaner.png">
+
+We can save disk space by compressing OS binaries via PowerShell
+
+open `PowerShell` -> run as administrator and type: `Compact /CompactOS:always`
+This command compress the OS binaries. If it causes any side effect you can easily undo it by `Compact /CompactOS:never`
   
 ## Defragment and Optimize Drives
 This tool run automaticly in the background and has the biggest impact on HDD-s. When we delete a file, its actually not erased from the disc, just signed that part of the drive can be overwritten. After a while there will be holes in our data and become more complex to read to the computer and takes longer time.
